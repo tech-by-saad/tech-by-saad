@@ -2,7 +2,7 @@
   <img src="https://github.com/tech-by-saad/tech-by-saad/raw/main/miroon-cat.gif" width="200" alt="coding cat"/>
 </p>
 
-<h1 align="center">Hi, I'm <strong>Saad Baig</strong> — passionate about building for the web, cloud, and beyond ⚡</h1>
+<h1 align="center">Hey there! I'm <strong>Saad Baig</strong> — turning code into real-world magic ⚙️💡</h1>
 <p align="center">Computer Science Student · MERN Stack Developer · Cloud & Network Enthusiast 🧠</p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=00B2FF&center=true&vCenter=true&multiline=true&width=700&lines=MERN+Stack+Dev+fueling+dreams+with+Cloud+and+Network+knowledge." alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=00B2FF&center=true&vCenter=true&multiline=true&width=700&lines=Crafting+MERN+Apps+while+exploring+the+Cloud+and+Networking+universe!" alt="Typing intro"/>
 </p>
 
 ---
@@ -24,25 +24,27 @@
 
 * 🎓 Final Year Computer Science Student
 * 💻 MERN Stack Developer (MongoDB · Express · React · Node)
-* ☁️ Exploring Cloud Computing & Networking fundamentals for future DevOps roles
-* 🌱 Currently diving deeper into scalable backend systems, deployment strategies, and modern tech stacks
-* 🧠 Tech enthusiast who loves solving real-world problems
+* ☁️ Exploring Cloud Computing & Networking fundamentals to transition into DevOps
+* 🔌 Hands-on experience with IoT systems, sensor-based automation, and Raspberry Pi integrations
+* 🧠 Tech enthusiast passionate about building solutions that matter
 
 ---
 
 ### 🔥 Highlight Projects
 
-| ⭐ Project                     | 💬 Description                                                       | 🛠️ Stack             |
-| ----------------------------- | -------------------------------------------------------------------- | --------------------- |
-| **Student Attendance System** | Facial recognition & cloud integration for smart attendance tracking | Python, OpenCV, Cloud |
-| **Home Security Automation**  | IoT-based smart home system using Raspberry Pi & sensors             | Python, IoT, Linux    |
+| ⭐ Project                     | 💬 Description                                                                             | 🛠️ Stack             |
+| ----------------------------- | ------------------------------------------------------------------------------------------ | --------------------- |
+| **Student Attendance System** | Dynamic attendance tracking                                                                | Php, Mysql            |
+| **Home Security Automation**  | IoT-based smart home system using Raspberry Pi & sensors                                   | Python, IoT, Linux    |
 
 ---
 
 ### 🧠 Currently Exploring
 
-* Scalable System Design Principles
-* Cloud Certifications & Architecture Best Practices
+* Advanced Networking & Security Concepts
+* Building Scalable Web Architectures
+* IoT + Web Integration Techniques
+* Diving deeper into Cloud and DevOps fundamentals
 
 ---
 
@@ -55,7 +57,7 @@
 * 📘 [Facebook](https://facebook.com/profile.php?id=100084380714332)
 * 🧑‍💻 [GitHub](https://github.com/tech-by-saad)
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
+📧 Email: [saadbaig740@gmail.com](mailto:saadbaig740@gmail.com)
 
 ---
 
