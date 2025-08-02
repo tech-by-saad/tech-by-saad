@@ -6,6 +6,15 @@
 <p align="center">Computer Science Student | MERN Stack Developer | Cloud & Network Enthusiast 🧠</p>
 
 <p align="center">
+  <a href="https://github.com/tech-by-saad">
+    <img src="https://img.shields.io/github/followers/tech-by-saad?label=Follow&style=social" alt="Follow"/>
+  </a>
+  <a href="https://github.com/sponsors/tech-by-saad">
+    <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-pink?style=flat-square" alt="Sponsor"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/saad-baig-79186a348/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://x.com/saad_baig_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter"/></a>
   <a href="https://www.instagram.com/tech_by_saad/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram"/></a>
