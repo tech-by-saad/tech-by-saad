@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/tech-by-saad/tech-by-saad/raw/main/miroon-cat.gif" width="200" alt="coding cat"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="220" alt="coding animation"/>
 </p>
 
-<h1 align="center">Hey there! I'm <strong>Saad Baig</strong> — turning code into real-world magic ⚙️💡</h1>
-<p align="center">Computer Science Student · MERN Stack Developer · Cloud & Network Enthusiast 🧠</p>
+<h1 align="center">⚡ Meet, <strong>Saad Baig</strong> — goes by @tech-by-saad ⚡</h1>
+<p align="center">Computer Science Student | MERN Stack Developer | Cloud & Network Enthusiast 🧠</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-baig-79186a348/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
@@ -15,16 +15,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=00B2FF&center=true&vCenter=true&multiline=true&width=700&lines=Crafting+MERN+Apps+while+exploring+the+Cloud+and+Networking+universe!" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=00B2FF&center=true&vCenter=true&multiline=true&width=700&lines=MERN+Dev+with+a+curious+mind+for+Cloud+and+Networking+!" alt="Typing intro"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍ About Me
 
 * 🎓 Final Year Computer Science Student
-* 💻 MERN Stack Developer (MongoDB · Express · React · Node)
-* ☁️ Exploring Cloud Computing & Networking fundamentals to transition into DevOps
+* 💻 MERN Stack Developer
+* ☁️ Exploring Cloud Computing & Networking fundamentals
 * 🔌 Hands-on experience with IoT systems, sensor-based automation, and Raspberry Pi integrations
 * 🧠 Tech enthusiast passionate about building solutions that matter
 
@@ -41,10 +41,18 @@
 
 ### 🧠 Currently Exploring
 
-* Advanced Networking & Security Concepts
-* Building Scalable Web Architectures
-* IoT + Web Integration Techniques
-* Diving deeper into Cloud and DevOps fundamentals
+* 🌐 Cloud Computing & Architecture
+* 🔗 Networking & Security Concepts
+* 🌟 IoT and Web Integration Techniques
+
+---
+
+### 🏆 Achievements
+
+* 🏠 Recognized as an IoT Innovator for Smart House project
+* 🎓 Participated in Aavishkar Zonal Tech Fest
+* 🥈 Secured 2nd Place in CS:GO Esports Tournament
+* 📜 Earned C Programming Certificate
 
 ---
 
@@ -55,7 +63,7 @@
 * 📷 [Instagram](https://www.instagram.com/tech_by_saad/)
 * 🧵 [Threads](https://www.threads.com/@tech_by_saad)
 * 📘 [Facebook](https://facebook.com/profile.php?id=100084380714332)
-* 🧑‍💻 [GitHub](https://github.com/tech-by-saad)
+* 💻 [GitHub](https://github.com/tech-by-saad)
 
 📧 Email: [saadbaig740@gmail.com](mailto:saadbaig740@gmail.com)
 
@@ -78,20 +86,26 @@
 
 ---
 
-### 🤝 Open to Connect, Share, and Collaborate
+### 🤝 Let's Connect, Create & Grow Together
 
-If you're:
+Whether you're :
 
-* A fellow student eager to learn and build
-* A dev looking for collaboration on meaningful projects
-* Someone who loves tech, ideas, and clean code
+* 🎓 A passionate student building the future
+* 💻 A developer eager to collaborate on meaningful projects
+* 💡 A curious mind who loves clean code and big ideas
 
-> Let's create something impactful together 🚀
+✨ You're in the right place!
+Let’s connect, share experiences, and build something impactful — one idea at a time.
+Feel free to reach out — the tech journey is better when we grow together 🚀
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJkNGI4ZjFjYjVmN2NjMTE0ZjY0MzEyYmNhMjQzMTI5NTRmZmU3NiZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="160" alt="handshake"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/tech-by-saad/tech-by-saad/raw/main/miroon-cat.gif" width="150" alt="coding cat"/>
+  <strong>Let’s connect, learn, and build something impactful — together!</strong><br/>
+  Reach out anytime: <a href="mailto:saadbaig740@gmail.com">saadbaig740@gmail.com</a>
 </p>
 
 <p align="center">
